@@ -12,8 +12,8 @@ In addition to these, the Transmitter Station would have a **433MHz Radio Freque
 The microcontroller boards used throughout the project is an Arduino UNO board for the transmitter station and another Arduino UNO board for the receiver station. **I wrote the firmware entirely in Embedded C** to make full use of the hardware and improve the execution speeds to handle time-sensitive operations such as TOF measurements, time syncing using RF Signals, trilaterations and navigations simultaneously on the same board. This also reduced the cost of the required hardware, by a significant margin.
 
 The components used while making this prototype are as follows:
-1) 2 x Arduino UNO R3 Boards                    - https://store.arduino.cc/usa/arduino-uno-rev3
-2) 4 x US-100 Ultrasonic Distance Sensor Module - https://robu.in/product/us-100-ultrasonic-sensor-distance-measuring-module-temperature-compensation/
-3) 1 x 433MHz Transmitter & Receiver Modules    - https://www.amazon.in/Robocraze-Wireless-Transmitter-Receiver-Quadcopter/dp/B07MY67BDB/
-4) 1 x L298N Motor Driver Module                - https://robu.in/product/l298n-2a-based-motor-driver-module-good-quality/
-5) 1 x HC-05 Bluetooth Module                   - https://www.amazon.in/xcluma-Wireless-Bluetooth-Transceiver-Arduino/dp/B071HWFYJP/
+1) 2 x Arduino UNO R3 Boards: https://store.arduino.cc/usa/arduino-uno-rev3
+2) 4 x US-100 Ultrasonic Distance Sensor Module: https://robu.in/product/us-100-ultrasonic-sensor-distance-measuring-module-temperature-compensation/
+3) 1 x 433MHz Transmitter & Receiver Modules: https://www.amazon.in/Robocraze-Wireless-Transmitter-Receiver-Quadcopter/dp/B07MY67BDB/
+4) 1 x L298N Motor Driver Module: https://robu.in/product/l298n-2a-based-motor-driver-module-good-quality/
+5) 1 x HC-05 Bluetooth Module: https://www.amazon.in/xcluma-Wireless-Bluetooth-Transceiver-Arduino/dp/B071HWFYJP/
