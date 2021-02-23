@@ -1,6 +1,8 @@
 # RIUP: RF Synced Indoor Ultrasonic Positioning & Navigation
 This project aims to achieve indoor positioning and navigation, employing **Time of Flight (TOF) measurements** using **Ultrasonic Transmitter and Receiver** Modules.
 
+**YouTube Video of Demonstration:** https://youtu.be/mW9np-8fmzY
+
 **Note: The README files explaining each step can be inside the step folders present in this root directory.**
 
 The setup would consist of a Transmission Station, whose operation is similar to the GPS Satellites orbiting on the Geostationary Orbits above the Earth's Surface. 
